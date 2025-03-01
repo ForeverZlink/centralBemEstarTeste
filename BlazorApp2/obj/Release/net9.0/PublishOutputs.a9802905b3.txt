@@ -1,0 +1,1 @@
+D:\ProjetosC#\BlazorApp2\dist\web.config
